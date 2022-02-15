@@ -1,4 +1,4 @@
-
+function conversionCode () {
   var convid = "1";
   var displayorder = "1";
   var linkalias = "Miami";
@@ -48,3 +48,5 @@
   document.write("<data_set>" + dataset + "</data_set>");
   document.write("</system>'");
   document.write(" width='1' height='1'>");
+}
+  
