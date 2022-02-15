@@ -1,5 +1,5 @@
 function conversionCode () {
-  console.log("running")
+  alert("running");
   var convid = "1";
   var displayorder = "1";
   var linkalias = "Miami";
